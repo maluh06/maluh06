@@ -4,16 +4,6 @@
 
 Me chamo Maria Luiza, tenho 18 anos e sou natural de Goiás. Atualmente, estou cursando Engenharia de Software, mas faço cursos por fora onde busco cada vez mais um domínio em aplicações com .NET. No momento domíno orientada á objetos, já tenho conhecimento em SQL Server e estou iniciando conhecimento em ASP.NET.
 
-<p align="left">
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
