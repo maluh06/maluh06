@@ -2,7 +2,7 @@
 
 **`Desenvolvedora BackEnd`**
 
-Me chamo Maria Luiza, tenho 18 anos e sou natural de Goiás. Atualmente, estou cursando Engenharia de Software, mas faço cursos por fora onde busco cada vez mais um domínio em aplicações com .NET. No momento domíno orientada á objetos, já tenho conhecimento em SQL Server e estou iniciando conhecimento em ASP.NET.
+Me chamo Maria Luiza, tenho 19 anos e sou natural de Goiás. Atualmente, estou cursando Engenharia de Software, mas faço cursos por fora onde busco cada vez mais um domínio em aplicações com .NET. No momento domíno orientada á objetos, já tenho conhecimento em SQL Server e estou iniciando conhecimento em ASP.NET.
 
 ---
 
